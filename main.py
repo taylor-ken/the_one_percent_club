@@ -7,7 +7,6 @@ import json
 import sys
 
 
-
 dir_path_questions = "./questions"
 dir_path_play = "./play"
 dir_save_game = "./save"
@@ -37,6 +36,5 @@ def main():
     # the game continues
     game = play_game(game, dir_path_questions, dir_path_play, dir_save_game)
 
-    
 
 main()
