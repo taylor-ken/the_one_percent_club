@@ -1,0 +1,11 @@
+{
+    "difficulty":   25,
+    "question":     "Which is the odd one out?",
+    "is_multiple_choice":   true,
+    "option_A":     "A picture of a pause button",
+    "option_B":     "A dogs paws",
+    "option_C":     "A computer mouse",
+    "option_D":     "Someone pouring a drink",
+    "answer":       "C",
+    "explanation":  "The pictures are of things which all sound the same -\n Pause, Paws, Pours - except C which is a mouse."
+}

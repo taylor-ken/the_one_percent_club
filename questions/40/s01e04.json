@@ -1,0 +1,11 @@
+{
+    "difficulty":           40,
+    "question":             "Which of these is an anagram of a day of the week?",
+    "is_multiple_choice":   true,
+    "option_A":             "DUSTY TEA",
+    "option_B":             "WEEDY DAWN",
+    "option_C":             "SHADY RUT",
+    "option_D":             "",
+    "answer":               "C",
+    "explanation":          "SHADY RUT > THURSDAY"
+}

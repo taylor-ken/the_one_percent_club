@@ -1,0 +1,13 @@
+{
+    "difficulty":   35,
+    "question":     "Mo plays rock, paper, scissors against Lesley.\n Mo does rock, then paper, then scissors.\n Lesley does paper, then scissors, then rock.\nWhat is the final score?",
+    "is_multiple_choice":   true,
+    "option_A":     "1-1 Draw",
+    "option_B":     "2-1 to Mo",
+    "option_C":     "3-0 to Lesley",
+    "option_D":     "",
+    "answer":       "C",
+    "explanation":  "Lesley's paper defeats Mo's rock.\n Lesley's scissors defeats Mo's paper.\n Lesley's rock defeats Mo's scissors."
+}
+
+

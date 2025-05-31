@@ -1,0 +1,11 @@
+{
+    "difficulty":           50,
+    "question":             "If planet 'Earth' has a 'Heart'\n which body part does 'Mars' have?",
+    "is_multiple_choice":   false,
+    "option_A":             "",
+    "option_B":             "",
+    "option_C":             "",
+    "option_D":             "",
+    "answer":               "Arms",
+    "explanation":          "Heart is an anagrom of Earth. \n and Arms is an anagram of Mars."
+}

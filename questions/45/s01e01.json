@@ -1,0 +1,11 @@
+{
+    "difficulty":           45,
+    "question":             "Crack the code to deduce this two-word phrase:\n\n  --> SECRET <--\n      SECRET    \n      SECRET    ",
+    "is_multiple_choice":   false,
+    "option_A":             "",
+    "option_B":             "",
+    "option_C":             "",
+    "option_D":             "",
+    "answer":               "Top Secret",
+    "explanation":          "The secret at the top."
+}

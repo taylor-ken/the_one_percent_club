@@ -1,0 +1,11 @@
+{
+    "difficulty":   30,
+    "question":     "If you spell numbers out backwards,\n so that ONE becomes ENO, TWO becomes OWT etc,\n what is the next number that spells a common word?",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "TEN",
+    "explanation":  "TEN spelt backwards becomes NET"
+}

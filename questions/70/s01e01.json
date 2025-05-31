@@ -1,0 +1,11 @@
+{
+    "difficulty":           70,
+    "question":             "Which of these does NOT contain any repeated letters within the word?",
+    "is_multiple_choice":   true,
+    "option_A":             "INDIVIDUAL",
+    "option_B":             "UNIQUE",
+    "option_C":             "SINGULAR",
+    "option_D":             "",
+    "answer":               "C",
+    "explanation":          ""
+}

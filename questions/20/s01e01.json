@@ -1,0 +1,11 @@
+{
+    "difficulty":   20,
+    "question":     "If Jack turned 17 yesterday and he'll turn\n 18 this year, what date is his birthday?",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "December 31st",
+    "explanation":  "If yesterday was Dec 31st that means today\n is Jan 1st of a new year. So he was 17 last\n year and will be 18 at the end of this year."
+}

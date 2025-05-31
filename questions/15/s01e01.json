@@ -1,0 +1,11 @@
+{
+    "difficulty":   15,
+    "question":     "If the 3rd of March, 8th of November\n and 9th of September are all the same,\n then what in October is also the same?",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "7th",
+    "explanation":  "The 3rd letter of March, the 8th letter of November\n and the 9th letter of September is an R,\n and R is the 7th letter of October."
+}

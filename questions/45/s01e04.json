@@ -1,0 +1,11 @@
+{
+    "difficulty":           45,
+    "question":             "If, from a forward-facing standing position\n you move three steps to your left, then two steps forward,\n and then four steps to your right, where are you\n standing now in relation to where you started?",
+    "is_multiple_choice":   true,
+    "option_A":             "1 step forward and one to the right",
+    "option_B":             "2 steps forward and one to the right",
+    "option_C":             "2 steps forward and one to the left",
+    "option_D":             "2 steps forward",
+    "answer":               "B",
+    "explanation":          "* * * * * END\n*\n* * * * START"
+}

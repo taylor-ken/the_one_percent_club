@@ -1,0 +1,11 @@
+{
+    "difficulty":   5,
+    "question":     "There is a word in English where the first two letters are male\n the first three letters are female, \n the first four are a great man,\n and the whole word is a great woman.\n What is the word?",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "Heroine",
+    "explanation":  "HE, HER, HERO, HEROINE"
+}

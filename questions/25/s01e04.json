@@ -1,0 +1,12 @@
+{
+    "difficulty":   25,
+    "question":     "Which SQUARE has the biggest total area?",
+    "is_multiple_choice":   true,
+    "option_A":     "  _ _ _\n |     |\n2|     |\n |_ _ _|\n    2",
+    "option_B":     "  _ _ _ \n |     |\n |     |\n |     |\n5|     |\n |     |\n |     |\n |_ _ _|\n    2",
+    "option_C":     "  _ _ _ _ _ _ \n |           |\n1|_ _ _ _ _ _|\n       3",
+    "option_D":     "",
+    "answer":       "A",
+    "explanation":  "A is the only square."
+}
+

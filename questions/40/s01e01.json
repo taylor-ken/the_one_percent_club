@@ -1,0 +1,11 @@
+{
+    "difficulty":           40,
+    "question":             "What type of vehicle can go before\n ITY, ISH and GUARD\n to make words?",
+    "is_multiple_choice":   false,
+    "option_A":             "",
+    "option_B":             "",
+    "option_C":             "",
+    "option_D":             "",
+    "answer":               "VAN",
+    "explanation":          "VANITY  VANISH  VANGUARD"
+}

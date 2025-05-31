@@ -1,0 +1,11 @@
+{
+    "difficulty":   15,
+    "question":     "What letter comes next in this sequence?\n\n O T T F F S S",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "E",
+    "explanation":  "One Two Three Four Five Six Seven EIGHT."
+}

@@ -1,0 +1,11 @@
+{
+    "difficulty":   1,
+    "question":     "What are the next 2 letters in this sequence?\n\n T N E C R E P E _ _",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "N O",
+    "explanation":  "It's ONE PERCENT spelt backwards"
+}

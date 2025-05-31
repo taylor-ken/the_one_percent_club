@@ -1,0 +1,11 @@
+{
+    "difficulty":   1,
+    "question":     "Why is FACETIOUS the odd one out in this group of words",
+    "is_multiple_choice":   false,
+    "option_A":     "EDUCATION",
+    "option_B":     "TAMBOURINE",
+    "option_C":     "FACETIOUS",
+    "option_D":     "DISCOURAGE",
+    "answer":       "The vowels are in alphabetical order",
+    "explanation":  "EDUCATION, TAMBOURINE and DISCOURAGE\n have their vowels in different orders."
+}

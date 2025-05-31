@@ -1,0 +1,11 @@
+{
+    "difficulty":           60,
+    "question":             "A mother and father have three daughters.\n Each daughter has one brother.\n How many children do the mother\n and father have in total?",
+    "is_multiple_choice":   false,
+    "option_A":             "",
+    "option_B":             "",
+    "option_C":             "",
+    "option_D":             "",
+    "answer":               "4",
+    "explanation":          "The daughters all have the same brother, \n so there are 4 of them altogether."
+}

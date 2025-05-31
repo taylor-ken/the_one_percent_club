@@ -1,0 +1,11 @@
+{
+    "difficulty":           80,
+    "question":             "Which of these is the odd one out?",
+    "is_multiple_choice":   true,
+    "option_A":             "A pea",
+    "option_B":             "An eye",
+    "option_C":             "A bee",
+    "option_D":             "A hammer",
+    "answer":               "D",
+    "explanation":          "When said out loud they become letters of the alphabet.\n Pea is P, eye is I, and bee is B. The hammer is just a hammer."
+}

@@ -1,0 +1,11 @@
+{
+    "difficulty":           90,
+    "question":             "Which of these photographs has to be wrong?",
+    "is_multiple_choice":   true,
+    "option_A":             "A tiger near water",
+    "option_B":             "A polar bear in the desert",
+    "option_C":             "A gorilla in the jungle",
+    "option_D":             "",
+    "answer":               "B",
+    "explanation":          "Polar bears live in the Arctic and NOT deserts."
+}

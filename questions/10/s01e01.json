@@ -1,0 +1,11 @@
+{
+    "difficulty":   10,
+    "question":     "How many pets does Stella have in total\n if all except two are dogs, all except two\n are cats, and all except two are rabbits?",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "3",
+    "explanation":  "She has one dog, one cat, and one rabbit."
+}

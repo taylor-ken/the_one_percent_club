@@ -1,0 +1,11 @@
+{
+    "difficulty":   5,
+    "question":     "Fill in the blank:\n\n Jessica is Mandy's only sister.\n Mandy is the ______ of Jessica's sister.",
+    "is_multiple_choice":   true,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "NAME",
+    "explanation":  ""
+}

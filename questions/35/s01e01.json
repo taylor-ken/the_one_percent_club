@@ -1,0 +1,13 @@
+{
+    "difficulty":   35,
+    "question":     "Crack the code below:\n\n_|____|____|_                         _|________|_\n |    |    |            |              |        |\n_|____|____|_  =  9   __|____  =  1    |        |   =  ?\n |    |    |            |              |        |\n_|____|____|_           |             _|________|_\n |    |    |            |              |        |",
+    "is_multiple_choice":   false,
+    "option_A":     "",
+    "option_B":     "",
+    "option_C":     "",
+    "option_D":     "",
+    "answer":       "4",
+    "explanation":  "The number relates to how many times the lines cross."
+}
+
+
