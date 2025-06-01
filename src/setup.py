@@ -1,5 +1,5 @@
 import glob
-from classes import Contestant, Game, Question
+from .classes import Contestant, Game, Question
 import random
 
 def get_contestants(dir_path_play):

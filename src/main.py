@@ -1,7 +1,7 @@
 from pathlib import Path
-from classes import Game, Question
-from setup import get_contestants, generate_game
-from play_game import play_game
+from .classes import Game, Question
+from .setup import get_contestants, generate_game
+from .play_game import play_game
 from dataclasses import dataclass, asdict
 import json
 import sys
@@ -37,4 +37,4 @@ def main():
     game = play_game(game, dir_path_questions, dir_path_play, dir_save_game)
 
 
-main()
+#main()
