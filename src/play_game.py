@@ -55,7 +55,7 @@ def play_game(game, dir_path_questions, dir_path_play, dir_save_game):
         current_question = display_question(dir_path_questions, question_link)
         
         # give the players time to answer
-        time.sleep(3)
+        time.sleep(30)
 
         # check update the contestant states based on their answers
         game = answer_checker(game, dir_path_play, current_question)
